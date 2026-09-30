@@ -170,7 +170,7 @@ You need Python 3.11 or newer (tested with Python 3.13).
 
 1. **Clone the repository**
 ```
-   git clone https://github.com/YOUR-USERNAME/ecommerce-sales-analysis.git
+   git clone https://github.com/FarhadAgha/ecommerce-sales-analysis.git
    cd ecommerce-sales-analysis
 ```
 2. **Create and activate a virtual environment**
