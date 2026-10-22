@@ -12,6 +12,7 @@ This project analyses an e-commerce dataset from end to end: raw data, data clea
 An online shop wants to understand where its revenue comes from and what it should monitor. Which products, categories, customers, and countries matter most? How does revenue change over time? Are there products that sell many units but earn little?
 
 ## Objectives
+
 - Measure total sales, orders, customers, and average order value
 - Analyse sales over time and find the highest and lowest months
 - Find the top products and categories by revenue and by units sold
