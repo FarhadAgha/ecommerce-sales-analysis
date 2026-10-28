@@ -29,7 +29,7 @@ An online shop wants to understand where its revenue comes from and what it shou
 | Column | Meaning |
 |---|---|
 | `OrderID` | Unique ID of one purchase |
-| `OrderDate` | Date the order was placed |
+| `OrderDate` | Date the order was placed | 
 | `CustomerID` | Unique ID of the customer |
 | `CustomerName` | Customer's name |
 | `Country` | Customer's country |
